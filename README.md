@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and learning new technologies 
 - 🌱 I’m currently learning coding, linux, SQL, software methodologes
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me in my email: waduzzaman@gmail.com
 
 <!---
 waduzzaman/waduzzaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
