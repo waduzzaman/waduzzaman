@@ -31,7 +31,6 @@ I am Mahbub E Waduzzaman, a student at Centennial College in Toronto, Canada, wh
 
 <hr>
 :hammer_and_wrench: Languages and Tools :
-<br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -47,11 +46,9 @@ I am Mahbub E Waduzzaman, a student at Centennial College in Toronto, Canada, wh
 
 <hr>
 :fire: My Stats :
-<br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=waduzzaman&mode=weekly)](https://git.io/streak-stats)
 
 <hr>
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waduzzaman&layout=compact)](https://github.com/waduzzaman/github-readme-stats)
 
 
@@ -60,5 +57,4 @@ You can reach in my email: waduzzaman@gmail.com
 waduzzaman/waduzzaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### Language and Tools < > 
 
