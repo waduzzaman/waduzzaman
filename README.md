@@ -20,10 +20,12 @@
 
 <hr>
 ## About Me:
+<br>
 I am Mahbub E Waduzzaman, a student at Centennial College in Toronto, Canada, where I am pursuing an Advanced Diploma in Software Engineering Technology. During my studies, I have honed my programming skills in various languages including C#, Python, Java, JavaScript, HTML, and CSS. I possess a thorough understanding of software design, web design, web application development, Linux/Unix operating systems, Windows command line, agile software development, Git, Eclipse, and Oracle SQL. In addition to my technical skills, I am a strong team player with the ability to learn quickly and pay attention to detail.
 
 <hr>
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
+<br>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -45,10 +47,12 @@ I am Mahbub E Waduzzaman, a student at Centennial College in Toronto, Canada, wh
 
 <hr>
 ### :fire: My Stats :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=waduzzaman)](https://git.io/streak-stats)
 
 <hr>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waduzzaman&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/waduzzaman/github-readme-stats)
 
 
 
