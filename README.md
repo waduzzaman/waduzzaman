@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> 
 </div>
-
 <br>
 
 <div align="center">
@@ -17,14 +16,21 @@
   </a>
 </div>
 
+<div align="center">
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
+
+
 <br>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
-<br>
 <hr>
-<strong>About Me: </strong>
+
+## About me: 
 <div>
   <p>
     I am Mahbub E Waduzzaman, a student at Centennial College in Toronto, Canada, where I am pursuing an Advanced Diploma in Software Engineering Technology. During my studies, I have honed my programming skills in various languages including C#, Python, Java, JavaScript, HTML, and CSS. I possess a thorough understanding of software design, web design, web application development, Linux/Unix operating systems, Windows command line, agile software development, Git, Eclipse, and Oracle SQL. In addition to my technical skills, I am a strong team player with the ability to learn quickly and pay attention to detail.
@@ -51,17 +57,19 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-
 <hr>
+
+
 :fire: My Stats :
+<br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=waduzzaman)](https://git.io/streak-stats)
-<hr>  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waduzzaman&layout=compact&theme=vision-friendly-dark)](https://github.com/waduzzaman/github-readme-stats)
 
 
-You can reach in my email: waduzzaman@gmail.com
+## Contact me: 
+waduzzaman@gmail.com
+
 <!---
 waduzzaman/waduzzaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
