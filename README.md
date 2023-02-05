@@ -66,6 +66,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waduzzaman&layout=compact&theme=vision-friendly-dark)](https://github.com/waduzzaman/github-readme-stats)
 
+## Github Activity: 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=waduzzaman&bg_color=a1a1a1&color=0d0d0d&line=363535&point=ef3506&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Contact me: 
 waduzzaman@gmail.com
