@@ -79,6 +79,7 @@ www.waduzzaman.com
 ### https://mahbub-personal-profile.netlify.app/
 ### https://app.netlify.com/sites/mahbub-personal-profile-reactjs/
 ### https://sage-cassata-7a9576.netlify.app/students/add
+### https://weather-app-reactjs-sandy.vercel.app/
 ### https://ema-jhon-ecommerce-firebase.netlify.app/
 ### https://app.netlify.com/sites/web-dev-quiz-practice/overview
 ### https://app.netlify.com/sites/firebase-auth-react-app/overview
@@ -87,7 +88,13 @@ www.waduzzaman.com
 ### https://resonant-fox-c767b5.netlify.app/
 ### https://react-rest-countries-live.netlify.app/
 ### https://papaya-madeleine-f9b3ad.netlify.app/
-
+### https://waduzzaman.github.io/comp125-assignment6-photo-slider/
+### https://waduzzaman.github.io/bug-smasher/
+### https://waduzzaman.github.io/simple-phone-compare/
+### https://waduzzaman.github.io/Drum-Kit/
+### https://waduzzaman.github.io/send-greetings/
+### https://waduzzaman.github.io/ph-assignment7-typing-speed-test/
+### https://waduzzaman.github.io/centennial-college-registration-form/
 
 
 <!---
