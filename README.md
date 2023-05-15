@@ -34,7 +34,6 @@
 <div>
   <p>
     I am Mahbub E Waduzzaman, a student at Centennial College in Toronto, Canada, where I am pursuing an Advanced Diploma in Software Engineering Technology. During my studies, I have honed my programming skills in various languages including C#, Python, Java, JavaScript, HTML, and CSS. I possess a thorough understanding of software design, web design, web application development, Linux/Unix operating systems, Windows command line, agile software development, Git, Eclipse, and Oracle SQL. In addition to my technical skills, I am a strong team player with the ability to learn quickly and pay attention to detail.
-
   </p>
 </div>
 
@@ -72,6 +71,24 @@
 
 ## Contact me: 
 waduzzaman@gmail.com
+
+## Proftfolio: 
+www.waduzzaman.com
+
+## My Projects: 
+https://mahbub-personal-profile.netlify.app/
+https://app.netlify.com/sites/mahbub-personal-profile-reactjs/
+https://sage-cassata-7a9576.netlify.app/students/add
+https://ema-jhon-ecommerce-firebase.netlify.app/
+https://app.netlify.com/sites/web-dev-quiz-practice/overview
+https://app.netlify.com/sites/firebase-auth-react-app/overview
+https://select-v.netlify.app/
+https://app.netlify.com/sites/latest-news-now/overview
+https://resonant-fox-c767b5.netlify.app/
+https://react-rest-countries-live.netlify.app/
+https://papaya-madeleine-f9b3ad.netlify.app/
+
+
 
 <!---
 waduzzaman/waduzzaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
