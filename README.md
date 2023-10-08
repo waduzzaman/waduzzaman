@@ -70,7 +70,7 @@
 ## Contact me: 
 waduzzaman@gmail.com
 
-## Proftfolio: 
+## Portfolio: 
 [www.waduzzaman.com](https://personal-portfolio-reactjs-tailwind.vercel.app/)
 
 ## My Projects: 
