@@ -71,7 +71,7 @@
 waduzzaman@gmail.com
 
 ## Proftfolio: 
-www.waduzzaman.com
+[www.waduzzaman.com](https://personal-portfolio-reactjs-tailwind.vercel.app/)
 
 ## My Projects: 
 ### https://mahbub-personal-profile.netlify.app/
