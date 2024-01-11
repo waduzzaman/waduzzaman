@@ -33,7 +33,11 @@
 ## About me: 
 <div>
   <p>
-    I am Mahbub E Waduzzaman, a student at Centennial College in Toronto, Canada, where I am pursuing an Advanced Diploma in Software Engineering Technology. During my studies, I have honed my programming skills in various languages including C#, Python, Java, JavaScript, HTML, and CSS. I possess a thorough understanding of software design, web design, web application development, Linux/Unix operating systems, Windows command line, agile software development, Git, Eclipse, and Oracle SQL. In addition to my technical skills, I am a strong team player with the ability to learn quickly and pay attention to detail.
+  As a software engineer holding a degree in Software Engineering Technology from Centennial College, I specialize in web design and development. Having completed my work term with ITProfound Inc in December 2023, I led web development projects utilizing HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, and React. My commitment to crafting visually appealing and responsive user interfaces is fueled by a passion for learning and adopting new technologies.
+
+I bring a versatile skill set, honing proficiency in programming languages such as C#, Python, Java, JavaScript, HTML, and CSS. My expertise extends to software design, web application development, Linux/Unix operating systems, Windows command line, agile software development, Git, Eclipse, and Oracle SQL.
+
+Beyond technical skills, I am a dedicated team player known for quick learning and keen attention to detail. I am eager to contribute to cutting-edge solutions that drive business success through collaborative efforts.
   </p>
 </div>
 
