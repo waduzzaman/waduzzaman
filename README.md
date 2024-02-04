@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/mahbubewaduzzaman/">
+  <a href="https://www.linkedin.com/in/waduzzaman/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCGTXTKO2b0QYjU67BceUkWw">
