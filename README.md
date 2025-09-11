@@ -75,7 +75,7 @@ Beyond technical skills, I am a dedicated team player known for quick learning a
 waduzzaman@gmail.com
 
 ## Portfolio: 
-[www.waduzzaman.com](https://personal-portfolio-reactjs-tailwind.vercel.app/)
+[www.waduzzaman.com](https://www.waduzzaman.com/)
 
 ## My Projects: 
 
