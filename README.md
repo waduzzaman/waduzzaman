@@ -33,7 +33,7 @@
 ## About me: 
 <div>
   <p>  
-As a software engineer with a degree in Software Engineering Technology from Centennial College, I specialize in web design and development. Having completed my work term with ITProfound Inc in December 2023, where I led web development projects utilizing HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, and React, I've gained valuable hands-on experience. Currently, I am working as a freelance web and Android app developer, further expanding my expertise.
+As a software engineer with a degree in Software Engineering Technology from Centennial College, Algonquin College, I specialize in web design and development. Having completed my work term with ITProfound Inc in December 2023, where I led web development projects utilizing HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, and React, I've gained valuable hands-on experience. Currently, I am working as a freelance web and Android app developer, further expanding my expertise.
 
 My commitment to crafting visually appealing and responsive user interfaces is fueled by a passion for learning and adopting new technologies. I bring a versatile skill set, honing proficiency in programming languages such as C#, Python, Java, JavaScript, HTML, and CSS. My expertise extends to software design, web application development, Linux/Unix operating systems, Windows command line, agile software development, Git, Eclipse, and Oracle SQL.
 
