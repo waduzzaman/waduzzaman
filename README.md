@@ -79,10 +79,17 @@ waduzzaman@gmail.com
 
 ## My Projects: 
 
+https://news-project-frontend.vercel.app/
+https://homemade-food-nextjs.vercel.app/
+https://miles-smiles-transport-nextjs.vercel.app/
+https://salah-prayer-times.vercel.app/
 ### https://real-estate-client-b69c6.firebaseapp.com/
 ### https://community-library-d20f8.web.app/
 ### https://top-tourism-management.netlify.app/
-
+https://www.mycanadajourney.ca/
+https://ak-marketings.vercel.app/
+https://www.nextgensofta.com/
+https://optics-shop.vercel.app/products
 ### https://mahbub-personal-profile.netlify.app/
 ### https://waduzzaman.github.io/tic-tac-toe/
 ### [https://app.netlify.com/sites/mahbub-personal-profile-reactjs/](https://mahbub-personal-profile-reactjs.netlify.app/)
