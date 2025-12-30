@@ -67,14 +67,17 @@ I enjoy building fast, responsive, and user-focused applications using the lates
 - Agile / Scrum
 
 ---
+![Snake animation](https://raw.githubusercontent.com/waduzzaman/waduzzaman/output/github-contribution-grid-snake.svg)
 
 ## 🔥 GitHub Stats
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waduzzaman&layout=compact&theme=react-dark)
+
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=waduzzaman&theme=react-dark)
 
-![GitHub Activity Graph](https://ashutosh00710.github.io/github-readme-activity-graph/graph?username=waduzzaman&theme=react-dark)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=waduzzaman&theme=darkhub&no-frame=true)
+![GitHub Trophies](https://github-trophies.vercel.app/?username=waduzzaman&theme=darkhub&no-frame=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=waduzzaman&style=flat-square&color=blue)
 
