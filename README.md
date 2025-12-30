@@ -70,9 +70,12 @@ I enjoy building fast, responsive, and user-focused applications using the lates
 
 ## 🔥 GitHub Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=waduzzaman&theme=dark)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waduzzaman&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waduzzaman&layout=compact&theme=vision-friendly-dark)](https://github.com/waduzzaman)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waduzzaman&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=waduzzaman&theme=react-dark)
+
 
 ---
 
