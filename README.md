@@ -69,20 +69,11 @@ I enjoy building fast, responsive, and user-focused applications using the lates
 ## | 🌐 My Portfolio | 🛠️ Latest Project | 📄 Resume |
 ## | [waduzzaman.com](https://yourportfolio.com) | [Project Name](https://www.therehabnest.com/) | [Download PDF](https://drive.google.com/file/d/1D3zRiLtWn9EFN_tqb0c5yChrvotVV8yc/view) |
 
----
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-
-
-![Snake animation](https://raw.githubusercontent.com/waduzzaman/waduzzaman/output/github-contribution-grid-snake.svg)
 
 ## 🔥 GitHub Stats
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waduzzaman&layout=compact&theme=react-dark)
-
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=waduzzaman&theme=react-dark)
 
