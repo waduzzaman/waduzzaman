@@ -70,12 +70,11 @@ I enjoy building fast, responsive, and user-focused applications using the lates
 
 ## 🔥 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waduzzaman&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waduzzaman&layout=compact&theme=dark&hide_border=true)
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=waduzzaman&theme=react-dark)
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=waduzzaman&theme=darkhub&no-frame=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=waduzzaman&style=flat-square&color=blue)
 
 ---
 
