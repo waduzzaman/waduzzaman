@@ -69,11 +69,9 @@ I enjoy building fast, responsive, and user-focused applications using the lates
 ## | 🌐 My Portfolio | 🛠️ Latest Project | 📄 Resume |
 ## | [waduzzaman.com](https://yourportfolio.com) | [Rehab Nest](https://www.therehabnest.com/) | [Download PDF](https://drive.google.com/file/d/1D3zRiLtWn9EFN_tqb0c5yChrvotVV8yc/view) |
 
-
 ## 🔥 GitHub Stats
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waduzzaman&layout=compact&theme=react-dark)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=waduzzaman&layout=compact&theme=react-dark)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=waduzzaman&theme=react-dark)
 
